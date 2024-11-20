@@ -1,28 +1,28 @@
-# Next Steps
+# Próximos pasos
 
-{% hint style="success" %}
-:tada: Congrats! You've finished the primary steps of setting up your validator. You're now an Ethereum staker!
-{% endhint %}
+{% pista estilo="éxito" %}
+:tada: ¡Felicidades! Has completado los pasos principales para configurar tu validador.¡Ahora eres un apostador de Ethereum!
+{% final %}
 
-## :track\_next: FAQ
+## :pista siguiente\_next: FAQ
 
-<details>
+<detalles>
 
-<summary>Wen staking rewards?</summary>
+<resumen>¿Cuando apostar recompensas?</resumen>
 
-**Activation Queue**: Once your EL+CL is synced, validator up and running, you just wait for activation. This process can take 24+ hours. Only 900 new validators can join per day. Check the queue length: [https://wenmerge.com ](https://wenmerge.com)
+**Coloca de activación**: Una vez que su EL-CL esté sinmcronizado y el validador esté en funcionamiento, simplemente espere la activación. Este proceso puede tardar 24 horas. Solo pueden unirse 900 nuevos validadores por día. Comprueba la longitud de la cola: [https://wenmerge.com ](https://wenmerge.com)
 
-**Activated**: When you're activated, your validator will begin creating and voting on blocks while earning staking rewards.
+**Activado**: cuyando estés activado, tu validor comenzará a crear y votar bloques mientras gana recompensa de staking. 
 
-**Quick monitoring**: Use [https://holesky.beaconcha.in](https://holesky.beaconcha.in/) to create alerts and track your validator's performance.
+**Monitor rápido**: Use [https://holesky.beaconcha.in](https://holesky.beaconcha.in/) para crear alertas y rastrear el desempeño de su validor.
 
-</details>
+</detalles>
 
-<details>
+<detalles>
 
-<summary>Sync Timeline</summary>
+<resumen>sincronizar linea del tiempo</resumen>
 
-Syncing the consensus client is instantaneous with checkpoint sync but the execution client can take up to a day. On nodes with fast NVME drives and gigabit internet, expect your node to be fully synced in a few hours.
+La sincroninizacion del cliente de Conseses es instantanea con los puntos de control de sincronizacion, pero la  ejucion del cliente puede demorar hasta un di. En los nodos con conexiones rapidas y Gibabit Internet, se espera que su cliente sea confiable.
 
 
 
